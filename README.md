@@ -1,2 +1,2 @@
 # Dog Facts
-check out here : [text](https://dogfactsgenerator.vercel.app/)
+check out here : [Dog Facts](https://dogfactsgenerator.vercel.app/)
